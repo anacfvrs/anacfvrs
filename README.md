@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! I'm Ana! :wave:</h1>
+<h1> Hi! I'm Ana! :wave:</h1>
 
 I'm a graduate student of 'Sistemas para Internet' (Full-Stack Development) at FIAP.
 
