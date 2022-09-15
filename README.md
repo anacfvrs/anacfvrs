@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align='center'> Hi! I'm Ana! :wave:</h1>
 
-My name is Ana Claudia and I'm a graduate student of 'Sistemas para Internet' (Full-Stack Development) at FIAP.
+I'm a graduate student of 'Sistemas para Internet' (Full-Stack Development) at FIAP.
 
 📌 Living in São Paulo/SP <br>
 🔎 I'm currently looking for internships, trainee or junior jobs' opportunities <br>
