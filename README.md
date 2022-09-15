@@ -10,5 +10,5 @@ My name is Ana Claudia and I'm a graduate student of 'Sistemas para Internet' (F
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="30"/>
+  <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="50"/>
 </div>
