@@ -9,6 +9,6 @@ I'm a graduate student of 'Sistemas para Internet' (Full-Stack Development) at F
 💬 Ping me about web development, TV shows and movies =) <br>
 
 
-<div id="header" align="center">
+<div id="footer">
   <img src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="50%"/>
 </div>
